@@ -5,7 +5,7 @@
       "name": "Tribute Burger",
       "description": "A mouth-watering honest beef burger",
       "image": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80",
-      // "image": "https://unsplash.com/photos/sc5sTPMrVfk",
+
       "ingredients": [
         "beef",
         "american cheese",
