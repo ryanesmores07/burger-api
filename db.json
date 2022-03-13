@@ -91,13 +91,13 @@
       "id": 6,
       "name": "Curry On My Wayward Bun",
 
-      "description": "N/A",
+      "description": "From a pink explosion was born Barbie Burger, a special edition in partnership with Mattel",
       "ingredients": ["beef", "curry", "bun"]
     },
     {
       "id": 7,
       "name": "MEISTER ALLER KLASSEN",
-
+      "description": "From a pink explosion was born Barbie Burger, a special edition in partnership with Mattel",
       "ingredients": [
         "2 x meat",
         "2 x cheese",
@@ -173,7 +173,7 @@
     {
       "id": 12,
       "name": "Buffalo chicken burger",
-
+      "description": "Perfect when you need a day off from your workout routine",
       "ingredients": [
         "Fried chicken breast",
         "House-made buffalo sauce",
@@ -283,7 +283,7 @@
       "id": 20,
       "name": "Du Brown",
       "restaurant": "Du Brown Burger Café",
-
+      "description": "Haute cuisine meets cravings for cheeseburgers.",
       "ingredients": [
         "beef",
         "bacon",
@@ -314,7 +314,7 @@
     {
       "id": 22,
       "name": "Big Fernand",
-
+      "description": "Home of the no bullshit burger",
       "ingredients": [
         "beef",
         "sundried tomates",
