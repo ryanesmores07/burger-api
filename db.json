@@ -33,6 +33,7 @@
       "restaurant": "Mooshies",
       "web": "www.veganburger.org",
       "description": "Spicy vegan burger with jackfruit",
+      "image": "https://unsplash.com/photos/Fn6dPYtPUMc",
       "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
       "addresses": [
         {
